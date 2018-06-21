@@ -1,0 +1,13 @@
+table{
+    background-color: aqua
+}
+
+
+th{
+    text-align: center;
+    padding: 10px 40px 10px 40px;
+    background-color: rgb(0, 163, 175)
+}
+body {
+    background-color: rgb(0, 163, 175)
+}

@@ -1,0 +1,15 @@
+
+th{
+    text-align: center;
+    padding: 10px 40px 10px 40px;
+    background-color: rgb(236, 247, 243)
+}
+
+body {
+    background-color: rgb(43, 214, 226)
+}
+
+td {
+    text-align: center;
+    border-bottom: 100px
+}
