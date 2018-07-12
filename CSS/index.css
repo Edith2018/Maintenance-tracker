@@ -4,5 +4,7 @@ body {
 h1 {
     text-align: center;
 }
-button {text-align: center;
+div {
+    width: 5px;
+    height: 10px;
 }
